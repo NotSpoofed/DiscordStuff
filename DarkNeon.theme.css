@@ -13,8 +13,6 @@
 
 @import url('https://commandcrafterhd.gitlab.io/bates-discord-theme/css/main.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
-
-@import url('https://commandcrafterhd.gitlab.io/bates-discord-theme/css/hideUsers.css');
 /* ^ This import ^ Collapses the userlist in Servers and Groups, comment it out if you don't want that! */
 /* Also a big thank you to rmkx for letting me use some of their code for this, check out their "Boreal" theme! */
 
